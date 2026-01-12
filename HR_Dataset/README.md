@@ -107,24 +107,6 @@ Final output: hr_data_processed.csv
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/hr-data-preprocessing.git
-cd hr-data-preprocessing
-
-### Install Dependencies
-```bash
-pip install pandas numpy matplotlib seaborn
-
-### Run the Notebook
-HR_Data_Preprocessing.ipynb
-
-### Output
-hr_data_processed.csv
----
-
 ## 📈 Real-World Use Cases
 
 ### This preprocessing system can directly support:
@@ -134,3 +116,27 @@ hr_data_processed.csv
 - Talent retention strategies
 - Organizational performance forecasting
 - People operations reporting
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/hr-data-preprocessing.git
+cd hr-data-preprocessing
+```
+
+### Install Dependencies
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+### Run the Notebook
+HR_Data_Preprocessing.ipynb
+
+### Output
+hr_data_processed.csv
+
+---
+
